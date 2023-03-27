@@ -1,2 +1,2 @@
-# mc-admintools
+# minecraft-admintools
 Admin tools plugin to Minecraft game.
